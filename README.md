@@ -1,54 +1,45 @@
-<h2 align="left">About Me</h2>
+# Bem vindo!
 
-###
+Meu nome é Caio Oliveira e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre). Tenho interesse em desenvolvimento web e programação full stack.
 
-<p align="left">- Student <br>- Developer BackEnd Java<br>- SpringBoot<br>- Django<br>- mySQL</p>
+Moro em **Brasília - DF**, e estou sempre buscando aprender mais e evoluir na área da tecnologia!
 
-###
+---
 
-<h2 align="left">Techs</h2>
+## Sobre Mim
 
-###
+💻 Atualmente estudo:
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
+- Fundamentos de Programação
+- Desenvolvimento Web com HTML, CSS, JavaScript e React
+- Desenvolvimento Backend com Java, PHP e Python
+- Banco de Dados (MySQL)
+- Princípios de Engenharia de Software
+  
+---
 
-###
+## 🛠️ Tecnologias e Ferramentas
 
-<h2 align="left">Stats</h2>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caio7978&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caio7978&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caio7978&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📌 Alguns Projetos
 
-###
+- 🔗 [Pomodash](https://github.com/seu-usuario/pomodash): Técnica Pomodoro com checklist em HTML/JS
+- 🔗 [Pomoreact](https://github.com/seu-usuario/pomoreact): Versão em React do Pomodash
+- 🔗 [Formulário HTML](https://github.com/seu-usuario/formulario-html): Projeto acadêmico com uso da tag `<form>`
+- 🔗 [Recriações de tutoriais React](https://github.com/seu-usuario/react-tutoriais): Prática com base em tutoriais oficiais e YouTube
 
-<h2 align="left">Social Media</h2>
+---
 
-###
+## 📫 Contato
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
+Você pode falar comigo por aqui mesmo no GitHub ou pelo e-mail:  
+📧 **caiooliveira2002@outlook.com**
