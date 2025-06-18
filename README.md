@@ -27,7 +27,7 @@ Moro em **Brasília - DF**, e estou sempre buscando aprender mais e evoluir na �
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
-
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 ---
 
 ## 📌 Alguns Projetos
