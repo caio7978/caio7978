@@ -1,6 +1,6 @@
 # Bem vindo!
 
-Meu nome é Caio Oliveira e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre). Tenho interesse em desenvolvimento web e programação full stack.
+Meu nome é Caio Oliveira e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre). Tenho interesse em desenvolvimento web e programação full stack.
 
 Moro em **Brasília - DF**, e estou sempre buscando aprender mais e evoluir na área da tecnologia!
 
