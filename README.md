@@ -1,8 +1,10 @@
-# Bem vindo!
+# Bem-vindo!
 
-Meu nome é Caio Oliveira e atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre). Tenho interesse em desenvolvimento web e programação full stack.
+Meu nome é **Caio Oliveira**, sou **desenvolvedor backend** com experiência prática em projetos acadêmicos e pessoais, utilizando **Java** e o ecossistema **Spring** (Spring Boot, Spring Data JPA e Spring Security).  
+Atualmente curso **Análise e Desenvolvimento de Sistemas (4º semestre)** no **SENAC** e busco constantemente aprimorar meus conhecimentos em **boas práticas de código**, **bancos de dados relacionais** (MySQL e PostgreSQL) e **APIs RESTful**.
 
-Moro em **Brasília - DF**, e estou sempre buscando aprender mais e evoluir na área da tecnologia!
+Moro em **Brasília - DF**, e tenho como objetivo atuar profissionalmente na área de **desenvolvimento backend**, contribuindo para projetos desafiadores e de impacto real.
+
 
 ---
 
